@@ -50,7 +50,7 @@ This project involves an in-depth analysis of collision data for Level 2 and Aut
 ## Project Structure
 
 - **Data**: - [NHTSA Crash Reporting](https://www.nhtsa.gov/laws-regulations/standing-general-order-crash-reporting#overview)
-- **Analysis**: Run all_data_analysis.py for different analysis.
+- **Analysis**: Run `all_data_analysis.py` for different analysis.
 - **Reports**: Summary reports and findings.
 - **Presentations**: Slides and visuals summarizing the analysis.
 

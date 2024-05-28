@@ -1,0 +1,166 @@
+{
+  "Make": {
+    "Jaguar": 0,
+    "Cruise": 1,
+    "Mercedes-Benz": 2,
+    "Toyota": 3,
+    "Navya": 4,
+    "Peterbilt": 5,
+    "Nissan": 6,
+    "International": 7,
+    "Hyundai": 8,
+    "Lucid": 9,
+    "NISSAN": 10,
+    "Chrysler": 11,
+    "Lexus": 12,
+    "Kenworth Motor Truck Co": 13,
+    "Local Motors": 14,
+    "Ford": 15,
+    "Polestar": 16,
+    "Ligier": 17,
+    "Kenworth": 18,
+    "LExus": 19,
+    "Ligier Group": 20,
+    "Freightliner": 21,
+    "FREIGHTLINER": 22,
+    "INTERNATIONAL": 23,
+    "Jeep": 24,
+    "EQS": 25,
+    "Chevrolet": 26,
+    "EZ10": 27,
+    "NAVYA": 28,
+    "OLLI": 29,
+    "Lincoln": 30
+  },
+  "State": {
+    "CA ": 0,
+    "AZ ": 1,
+    "TX ": 2,
+    "FL ": 3,
+    "VA ": 4,
+    "MN ": 5,
+    "NV ": 6,
+    "RI ": 7,
+    "OH ": 8,
+    "MI ": 9,
+    "GA ": 10,
+    "NM ": 11,
+    "PA ": 12,
+    "DC ": 13,
+    "CO ": 14,
+    "WY ": 15,
+    "IN ": 16
+  },
+  "Roadway Type": {
+    "Traffic Circle": 0,
+    "Street": 1,
+    "Intersection": 2,
+    "Highway / Freeway": 3,
+    "Parking Lot": 4,
+    "Unknown": 5
+  },
+  "Roadway Surface": {
+    "Dry": 0,
+    "Wet": 1,
+    "Unknown": 2,
+    "Snow / Slush / Ice": 3
+  },
+  "Roadway Description": {
+    "No Unusual Conditions": 0,
+    "Traffic Incident": 1,
+    "Other, see Narrative": 2,
+    "Work Zone": 3,
+    "Unknown": 4
+  },
+  "Lighting": {
+    "Daylight": 0,
+    "Dark - Lighted": 1,
+    "Dawn / Dusk": 2,
+    "Dark - Not Lighted": 3,
+    "Dark - Unknown Lighting": 4,
+    "Unknown": 5
+  },
+  "Weather - Clear": {
+    "Y": 0,
+    "N": 1
+  },
+  "Weather - Snow": {
+    "N": 0
+  },
+  "Weather - Severe Wind": {
+    "N": 0
+  },
+  "Weather - Unknown": {
+    "N": 0,
+    "Y": 1
+  },
+  "Weather - Other": {
+    "N": 0,
+    "Y": 1
+  },
+  "Weather - Cloudy": {
+    "N": 0,
+    "Y": 1
+  },
+  "Weather - Rain": {
+    "N": 0,
+    "Y": 1
+  },
+  "Weather - Fog/Smoke": {
+    "N": 0
+  },
+  "SV Pre-Crash Movement": {
+    "Other, see Narrative": 0,
+    "Stopped": 1,
+    "Proceeding Straight": 2,
+    "Parking Maneuver": 3,
+    "Parked": 4,
+    "Making Right Turn": 5,
+    "Lane / Road Departure": 6,
+    "Backing": 7,
+    "Changing Lanes": 8,
+    "Making Left Turn": 9,
+    "Entering Traffic": 10,
+    "Merging": 11,
+    "Unknown": 12
+  },
+  "CP Pre-Crash Movement": {
+    "Other, see Narrative": 0,
+    "Backing": 1,
+    "Proceeding Straight": 2,
+    "Changing Lanes": 3,
+    "Making Left Turn": 4,
+    "Stopped": 5,
+    "Making U-Turn": 6,
+    "NM Crossing Roadway": 7,
+    "Parked": 8,
+    "Unknown": 9,
+    "Merging": 10,
+    "Passing": 11,
+    "Traveling Wrong Way": 12,
+    "Parking Maneuver": 13,
+    "Crossing into Opposing Lane": 14,
+    "Making Right Turn": 15,
+    "Entering Traffic": 16,
+    "Lane / Road Departure": 17,
+    "NM Moving on Sidewalk": 18
+  },
+  "Crash With": {
+    "Passenger Car": 0,
+    "Heavy Truck": 1,
+    "Non-Motorist: Cyclist": 2,
+    "SUV": 3,
+    "Other, see Narrative": 4,
+    "Pickup Truck": 5,
+    "Van": 6,
+    "First Responder Vehicle": 7,
+    "Non-Motorist: Pedestrian": 8,
+    "Other Fixed Object": 9,
+    "Bus": 10,
+    "Animal": 11,
+    "Non-Motorist: Other": 12,
+    "Motorcycle": 13,
+    "Unknown": 14,
+    "Pole / Tree": 15
+  }
+}
